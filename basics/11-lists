@@ -1,2 +1,2 @@
 /usr/local/bin
-ls -a / /.. /boot:
+ls -a / /.. /boot
