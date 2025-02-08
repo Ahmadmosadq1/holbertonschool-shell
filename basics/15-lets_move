@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/u | find . -type f -name "[A-Z]*"| xargs cp -u -t /tmp/u
+mkdir -p /tmp/u | find . -type f -name "[A-Z]*"| xargs mv -u -t /tmp/u
