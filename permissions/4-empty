@@ -1,2 +1,2 @@
 #!/bin/bash
-vi -c 'wq' hello
+vi hello
