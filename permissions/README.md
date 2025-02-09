@@ -16,5 +16,10 @@ I used the command <find . type -f -o type -d  -exec cchown vincent:staff {} +>
 <- type> will determin what to find whihch in this case, d(directory) and f(files)
 
 
+Task 16 :if_only:
+-
+in this task, i have to change the owner of the "hello" file to "vincent" only if the current user is "guillaume".
+using the flag <-user> for type command will  first check the current user and it will execute using <-exec> to change the owner. 
+
 
 
