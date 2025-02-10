@@ -13,3 +13,7 @@ showing the content of /etc/passwd using cat command
 Task 4:Last lines of a file:
 -
 to display the last 10 lines of /etc/passwd using tail-10
+
+Task 5:5-firstlines:
+-
+to display the first 10 lines of /etc/passwd using head-10
