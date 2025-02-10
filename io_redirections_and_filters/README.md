@@ -17,3 +17,7 @@ to display the last 10 lines of /etc/passwd using tail-10
 Task 5:5-firstlines:
 -
 to display the first 10 lines of /etc/passwd using head-10
+
+Task 6: 6. Line #2:
+-
+using head and tail method to print out a specific line of the iacta file content using cat with head and tail <cat iacta | head -3 | tail -1>
