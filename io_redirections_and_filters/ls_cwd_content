@@ -1,5 +1,5 @@
 total 76
-drwxr-xr-x 2 root root  4096 Feb 10 10:39 .
+drwxr-xr-x 2 root root  4096 Feb 10 10:45 .
 drwxr-xr-x 6 root root  4096 Feb 10 07:39 ..
 -rw-r--r-- 1 root root 12288 Feb 10 09:46 .5-firstlines.swp
 -rwxr-xr-x 1 root root    34 Feb 10 07:39 0-hello_world
@@ -15,5 +15,5 @@ drwxr-xr-x 6 root root  4096 Feb 10 07:39 ..
 -rw-r--r-- 1 root root     6 Feb 10 10:26 \*\"Best School"\\*$?*****:)
 -rw-r--r-- 1 root root    32 Feb 10 10:24 \*\'Best
 -rw-r--r-- 1 root root    27 Feb 10 09:39 iacta
--rw-r--r-- 1 root root     0 Feb 10 10:39 ls_cwd_content
+-rw-r--r-- 1 root root     0 Feb 10 10:45 ls_cwd_content
 -rw-r--r-- 1 root root   158 Feb 10 10:34 output
