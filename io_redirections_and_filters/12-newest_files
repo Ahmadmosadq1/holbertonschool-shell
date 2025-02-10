@@ -1,2 +1,2 @@
 #!/bin/bash
-stat --format="%D %n" * | sort -nr | cut -d' ' -f2- | head -10
+stat --format="%d %n" * | sort -nr | cut -d' ' -f2- | head -10
