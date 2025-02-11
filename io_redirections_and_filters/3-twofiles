@@ -1,3 +1,2 @@
 #!/bin/bash
-
-cat <(echo $str) /etc/passwd <(echo $str2) /etc/hosts
+cat /etc/passwd /etc/hosts
